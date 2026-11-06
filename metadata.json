@@ -1,0 +1,6 @@
+{
+  "name": "Ilkhanate Radar",
+  "description": "Borsa İstanbul ve Kripto için MOST ve Güçlü Mum AL sinyali tarama ve teknik analiz radarı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
